@@ -74,7 +74,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>atmoster</username>
+					<username>momoDEC2015</username>
 					<password>Momoola1</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
